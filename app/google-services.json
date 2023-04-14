@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804932110646",
+    "project_id": "warehouse-60dd8",
+    "storage_bucket": "warehouse-60dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804932110646:android:caf09dc49c5889b9004b97",
+        "android_client_info": {
+          "package_name": "com.vatsal.warehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804932110646-u0sfrqogec839vhhcgrce8n9fkp095b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDJ9ACGbgnHhJMhA_TyeUxyE-EzstmV_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804932110646-u0sfrqogec839vhhcgrce8n9fkp095b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
